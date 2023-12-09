@@ -5,8 +5,8 @@ This is a command-line utility written in Go for converting hexadecimal and Base
 ## Usage
 
 ```bash
-go run main.go -hex <hexadecimal_string>
+go run decode.go -hex <hexadecimal_string>
 
-go run main.go -base64 <base64_encoded_string>
+go run decode.go -base64 <base64_encoded_string>
 
 ```
